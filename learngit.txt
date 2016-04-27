@@ -1,1 +1,2 @@
-it is my first time to learn git
+it is my first time to learn2 git
+i decide to write something else this time
